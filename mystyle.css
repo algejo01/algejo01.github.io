@@ -1,6 +1,9 @@
 <html>
 <head>
 <style>
+  h1 {
+    color: black;
+  }
   .top {
     background-color:red;
   }
