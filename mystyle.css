@@ -2,7 +2,7 @@
 <head>
 <style>
   .hi {
-    background-color:red;
+    background-color:blue;
   }
   .low {
     background-color:gray;
@@ -12,6 +12,9 @@
   }
   .done{
     text-decoration:line-through;
+  }
+  .b1{
+    background-color:green;
   }
 </style>
 
