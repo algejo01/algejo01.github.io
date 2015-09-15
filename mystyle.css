@@ -1,8 +1,17 @@
 <html>
 <head>
 <style>
-  body {
-    background-color:green;
+  .high {
+    background-color:red;
+  }
+  .low {
+    background-color:gray;
+  }
+  .med {
+    background-color:orange;
+  }
+  .done{
+    text-decoration:line-through;
   }
 </style>
 
