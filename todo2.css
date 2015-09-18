@@ -5,17 +5,14 @@ color:white;
 .s2 {
 background-color:orange;
 color:white;
-display:inline;
 }
 .s3 {
 background-color:gray;
 color:black;
-display:inline;
 }
 .s4 {
 background-color:black;
 color:cyan;
-display:inline;
 }
 h2 {
   text-align:center;
@@ -28,6 +25,7 @@ section  {
   height:200px;
   width: 300px;
   overflow:auto;
+  display:inline;
   
   
 }
