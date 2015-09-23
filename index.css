@@ -7,3 +7,9 @@ section {
   width:50%;
   margin:50px;
 }
+footer {
+  clear:both;
+  widht:100%;
+  background-color: lightblue;
+  height:100px;
+}
