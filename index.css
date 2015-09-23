@@ -1,7 +1,9 @@
 nav {
   position:fixed;
+  margin: 50px;
   }
 section {
   float:left
   width:50%;
-  }
+  margin:50px;
+}
