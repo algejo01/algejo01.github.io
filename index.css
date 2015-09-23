@@ -2,6 +2,9 @@ nav {
   position:fixed;
   margin: 50px;
   }
+  nav p {
+    display:inline;
+  }
 section {
   float:left
   width:50%;
