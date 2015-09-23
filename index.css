@@ -1,14 +1,13 @@
 nav {
   position:fixed;
-  margin: 50px;
   }
   nav p {
     display:inline;
   }
 section {
+  top:50px;
   float:left
   width:50%;
-  margin:50px;
 }
 footer {
   clear:both;
