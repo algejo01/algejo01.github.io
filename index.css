@@ -12,7 +12,7 @@
 
   }
 section{
-  background-color:gray;
+  background-color:blue;
   width:50%;
 }
 article {
@@ -21,6 +21,7 @@ article {
   left:1000;
   background-color:lightgreen;
   width:50%;
+  float:left;
 }
 
 footer {
@@ -32,4 +33,4 @@ footer {
 .fun {
   clear:both;
 }
-}
+
