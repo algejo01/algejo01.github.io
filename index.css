@@ -1,4 +1,7 @@
-nav {
+.profpic {
+  height:500;
+  }
+  nav {
   position:fixed;
   text-align:center;
   }
@@ -7,7 +10,6 @@ nav {
   }
 main {
   position:relative;
-  height:500;
 }
 section {
   position:absolute;
@@ -20,4 +22,8 @@ footer {
   widht:100%;
   background-color: lightblue;
   height:100px;
+}
+.fun {
+  clear:both;
+}
 }
