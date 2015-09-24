@@ -8,14 +8,17 @@
   nav p {
     display:inline;
   }
-  section{
-    display:inline;
+  main {
+    position:relative;
   }
+
   }
 #a {
+  background-color:gray;
   width:50%;
 }
 #b {
+  background-color:lightgreen;
   width:50%;
 }
 
