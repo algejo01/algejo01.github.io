@@ -12,14 +12,12 @@ main{
 }
 }
 #a {
-  position:absolute;
- top:1000px;
-  width:50%;
+  
+
+
 }
 #b {
-  position:absolute;
- top:1000px;
-  width:50%;
+ left:1000px;
 }
 
 footer {
