@@ -7,9 +7,12 @@
   nav p {
     display:inline;
   }
-
+main{
+  position:relative;
+}
 }
 section {
+  position:absolute;
  top:500px;
   float:left
   width:50%;
