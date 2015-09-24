@@ -1,6 +1,4 @@
-.profpic {
-  height:500;
-  }
+
   nav {
   text-align:center;
   background-color:rgb(238,130,238);
@@ -18,6 +16,9 @@ section{
   width:50%;
 }
 article {
+  position:absolute;
+  top:-600;
+  left:1000;
   background-color:lightgreen;
   width:50%;
 }
