@@ -1,6 +1,5 @@
 
   nav {
-    top:1000px;
   text-align:center;
   background-color:rgb(238,130,238);
   }
@@ -12,14 +11,13 @@
   }
 
   }
-section{
+main section{
   background-color:blue;
   width:50%;
 }
-article {
+main article {
   background-color:lightgreen;
   width:50%;
-  float:right;
 }
 
 footer {
