@@ -13,11 +13,11 @@
   }
 
   }
-#a {
+section{
   background-color:gray;
   width:50%;
 }
-#b {
+article {
   background-color:lightgreen;
   width:50%;
 }
