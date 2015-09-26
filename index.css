@@ -2,6 +2,7 @@
   nav {
   text-align:center;
   background-color:rgb(238,130,238);
+  position:fixed;
   }
   nav p {
     display:inline;
@@ -12,7 +13,8 @@
 
   }
 main section{
-  width:25%;
+  position:absolute;
+  width:50%;
 }
 main article {
   position:absolute;
