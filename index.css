@@ -16,13 +16,11 @@
 main section{
   position:absolute;
   width:50%;
-main section p{
-  width:50%;
-}
+
 }
 main article {
   position:absolute;
-  left:1500px;
+  left:1000px;
   background-color:lightgreen;
   width:50%;
 }
