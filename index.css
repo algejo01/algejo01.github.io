@@ -27,6 +27,7 @@ main section{
 
 main article {
   position:absolute;
+  float:right;
   height:1000px;
   left:1000px;
   background-color:lightgreen;
@@ -38,12 +39,17 @@ main article p {
 }
 
 footer {
+  position:relative;
+  top:2100px;
   clear:both;
   width:100%;
   background-color: lightblue;
   height:100px;
 }
 .fun {
+  position:relative;
+  top:2000px;
   clear:both;
+  height:100px;
 }
 
