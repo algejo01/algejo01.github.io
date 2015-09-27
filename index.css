@@ -18,18 +18,20 @@
   }
 main section{
   position:absolute;
-  width:50%;
-  height:3000px;
+  width:500px;
+  height:1000px;
+  display:inline;
 }
  
 
 
 main article {
   position:absolute;
-  height:3000px;
+  height:1000px;
   left:1000px;
   background-color:lightgreen;
-  width:50%;
+  width:1000px;
+  display:inline;
 }
 main article p {
   width:50%;
