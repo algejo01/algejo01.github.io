@@ -25,14 +25,12 @@
 }
 
 footer {
-  position:relative;
   clear:both;
   width:100%;
   background-color: lightblue;
   height:100px;
 }
 aside {
-  position:relative;
   clear:both;
   height:100px;
 }
