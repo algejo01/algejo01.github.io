@@ -22,8 +22,13 @@
    background-color:lightgreen;
  }
 
-}
 
+aside {
+  position:relative;
+  top:250px;
+  clear:both;
+  height:100px;
+}
 footer {
   position:relative;
   top:250px;
@@ -32,10 +37,5 @@ footer {
   background-color: lightblue;
   height:100px;
 }
-aside {
-  position:relative;
-  top:250px;
-  clear:both;
-  height:100px;
-}
+
 
