@@ -9,26 +9,12 @@
   }
   nav p {
     display:inline;
-  }
-  main {
-    position:relative;
-    top:50px;
-  }
-
-  }
-main section{
+}
+ section{
   width:50%;
   float:left;
-}
  
 
-
-main article {
-  float:left;
-  width:50%;
-}
-main article p {
-  width:50%;
 }
 
 footer {
