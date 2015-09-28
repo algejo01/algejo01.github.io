@@ -17,24 +17,15 @@
 
   }
 main section{
-  position:absolute;
-  width:500px;
-  height:1000px;
-  display:inline;
+  width:50%;
+  float:left;
 }
  
 
 
 main article {
-  z-index:1;
-  position:absolute;
-  float:right;
-  height:1000px;
-  top:-1000px;
-  left:1000px;
-  background-color:lightgreen;
-  width:1000px;
-  display:inline;
+  float:left;
+  width:50%;
 }
 main article p {
   width:50%;
