@@ -11,6 +11,8 @@
     display:inline;
 }
  section{
+   position:relative;
+   top:100px;
   width:50%;
   float:left;
  
