@@ -6,7 +6,10 @@
   width:100%;
   z-index:10;
   }
- 
+ img {
+   position:relative;
+   top:-20px;
+ }
   nav p {
     display:inline;
 }
