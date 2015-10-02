@@ -29,17 +29,13 @@
 
 aside {
   position:relative;
-  top:250px;
   clear:both;
-  height:100px;
 }
 footer {
   position:relative;
-  top:250px;
   clear:both;
   width:100%;
   background-color: lightblue;
-  height:100px;
 }
 
 
