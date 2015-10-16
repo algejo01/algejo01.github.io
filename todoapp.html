@@ -1,8 +1,14 @@
 <html>
+  <head>
+    <title>To Do App
+    </title>
+  </head>
   <body>
     <h1 id=header1>Things To Do</h1>
-    <section>
-      
+    <section id = "s1">
+      <ul id="list1">
+        
+      </ul>
     </section>
     <article>
       Enter Task
@@ -10,11 +16,19 @@
 <select id="priority">
     <option>High</option>
     <option>Medium</option>
-    <option>low</option>
+    <option>Low</option>
 </select>
 <button onclick="newitem();">New</button>
 </article>
     <script>
+    newitem=function(){
+      ulist= document.querySelector("#list1")
+      item=document.createElement("li");
+      text= document.querySelector("#tbox").value;
+      li=document.createTextNode(text);
+      item.appendChild(text);
+      ulist.appendChild(item);
+    }
      </script>
   </body>
 </html>
