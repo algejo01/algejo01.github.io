@@ -1,8 +1,8 @@
 newitem=function(){
       ulist= document.querySelector("#list1")
-      item=document.createElement("l");
+      item=document.createElement("li");
       text= document.querySelector("#tbox").value;
-      l=document.createTextNode(text);
+      li=document.createTextNode(text);
       item.appendChild(li);
       box=document.createElement("checkbox");
       ulist.appendChild(box);
