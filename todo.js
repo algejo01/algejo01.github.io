@@ -3,6 +3,6 @@ newitem=function(){
       item=document.createElement("li");
       text= document.querySelector("#tbox").value;
       li=document.createTextNode(text);
-      item.appendChild(text);
+      item.appendChild(li);
       ulist.appendChild(item);
     }
