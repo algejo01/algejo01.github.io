@@ -4,5 +4,8 @@ newitem=function(){
       text= document.querySelector("#tbox").value;
       li=document.createTextNode(text);
       item.appendChild(li);
+      box=document.createElement("checkbox");
+      ulist.appendChild(box);
       ulist.appendChild(item);
+      
     }
