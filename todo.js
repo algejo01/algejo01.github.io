@@ -6,7 +6,7 @@ newitem=function(){
       text= document.querySelector("#tbox").value;
       prio = document.querySelector("#priority").value;
       li=document.createTextNode(text);
-      item.className="prio";
+      item.className=prio;
       item.appendChild(li);
       ulist.appendChild(box);
       ulist.appendChild(item);
