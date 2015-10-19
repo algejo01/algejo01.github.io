@@ -17,6 +17,6 @@ newitem=function(){
     
   checkfunc=function(){
         box.onclick= chackfunc;
-        this.parentNode.className="Done";
+        this.parentNode.classList.add("Done");
         
   }  
