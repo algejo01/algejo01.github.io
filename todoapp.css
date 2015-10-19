@@ -1,1 +1,14 @@
-body {}
+.High {
+  color: red;
+}
+ .Medium {
+   color: orange;
+ }
+ 
+ .Low{
+   color:yellow;
+ }
+ body {
+   background-color: lightblue;
+   text-align: center;
+ }
