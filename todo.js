@@ -8,7 +8,7 @@ newitem=function(){
       prio = document.querySelector("#priority").value;
       li=document.createTextNode(text);
       item.className=prio;
-      item.style.display="inline";
+      li.style.display="inline";
       item.appendChild(li);
       ulist.appendChild(box);
       ulist.appendChild(item);
@@ -16,6 +16,7 @@ newitem=function(){
     }
     
   checkfunc=function(){
-        box.onclick=
+        box.onclick= chackfunc;
+        this.parentNode.className="Done";
         
   }  
