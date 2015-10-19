@@ -1,7 +1,7 @@
+var box = document.createElement("input");
 newitem=function(){
       ulist= document.querySelector("#list1");
       item=document.createElement("li");
-      box = document.createElement("input");
       box.type="checkbox";
       text= document.querySelector("#tbox").value;
       prio = document.querySelector("#priority").value;
