@@ -1,12 +1,15 @@
 .High {
   color: red;
+  display:inline;
 }
  .Medium {
    color: orange;
+   display:inline;
  }
  
  .Low{
    color:yellow;
+   display:inline;
  }
  body {
    background-color: lightblue;
