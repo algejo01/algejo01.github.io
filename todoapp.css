@@ -1,16 +1,13 @@
 .High {
   color: red;
   background-color:blue;
-  display:inline;
 }
  .Medium {
    color: orange;
-   display:inline;
  }
  
  .Low{
    color:yellow;
-   display:inline;
  }
  body {
    background-color: lightblue;
