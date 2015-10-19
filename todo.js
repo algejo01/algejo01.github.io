@@ -10,6 +10,6 @@ newitem=function(){
       item.style.display="inline";
       item.appendChild(li);
       ulist.appendChild(box);
-      ulist.appendChild(item)
+      ulist.appendChild(item);
       
     }
