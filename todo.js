@@ -15,5 +15,6 @@ newitem=function(){
     }
     
   checkfunc=function(){
+        box.onclick=
         
   }  
