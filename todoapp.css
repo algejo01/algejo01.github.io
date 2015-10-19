@@ -12,3 +12,7 @@
    background-color: lightblue;
    text-align: center;
  }
+ .Done {
+   text-decoration:line-through;
+   color:green;
+ }
