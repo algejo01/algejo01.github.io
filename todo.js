@@ -13,3 +13,7 @@ newitem=function(){
       ulist.appendChild(item);
       
     }
+    
+  checkfunc=function(){
+        
+  }  
