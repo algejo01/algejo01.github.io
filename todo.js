@@ -9,7 +9,7 @@ newitem=function(){
       item.className=prio;
       item.style.display="inline";
       item.appendChild(li);
-      ulist.appendChild(box, item);
-      
+      ulist.appendChild(box);
+      ulist.appendChild(item)
       
     }
