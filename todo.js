@@ -8,8 +8,7 @@ newitem=function(){
       li=document.createTextNode(text);
       item.className=prio;
       item.appendChild(li);
-      ulist.appendChild(box);
-      ulist.appendChild(item);
+      ulist.appendChild(box, item);
       
       
     }
