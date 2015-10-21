@@ -21,7 +21,7 @@ donetask = function(){
       this.parentNode.classList.add("done");
       }
       else{
-            this.parentNode.classList.remove("Done");
+            this.parentNode.classList.remove("done");
       }
      
 }
