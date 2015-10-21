@@ -17,6 +17,6 @@ newitem=function(){
     }
     
 donetask = function(){
-      this.classList.add(Done);
+      this.parentNode.classList.add("Done");
 }
 
