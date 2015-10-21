@@ -9,7 +9,7 @@ newitem=function(){
       prio = document.querySelector("#priority").value;
       li=document.createTextNode(text);
       item.className=prio;
-      item.style.display="inline";
+      //item.style.display="inline";
       item.appendChild(box);
       item.appendChild(li);
       ulist.appendChild(item);
