@@ -17,6 +17,13 @@ newitem=function(){
     }
     
 donetask = function(){
+      if (!this.checked){
       this.parentNode.classList.add("Done");
+      }
+      else{
+            this.parentNode.classList.remove("Done");
+      }
+     
 }
+
 
