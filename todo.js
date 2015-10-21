@@ -18,7 +18,7 @@ newitem=function(){
     
 donetask = function(){
       if (this.checked){
-      this.parentNode.classList.add("Done");
+      this.parentNode.classList.add("done");
       }
       else{
             this.parentNode.classList.remove("Done");
