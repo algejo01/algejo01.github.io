@@ -4,7 +4,7 @@ newitem=function(){
       item=document.createElement("li");
       box = document.createElement("input");
       box.type="checkbox";
-      box.onclick=changefunc;
+      box.onclick=donetask;
       text= document.querySelector("#tbox").value;
       prio = document.querySelector("#priority").value;
       li=document.createTextNode(text);
@@ -16,7 +16,7 @@ newitem=function(){
       
     }
     
-changefunc = function(){
+donetask = function(){
       this.classList.add(Done);
 }
 
