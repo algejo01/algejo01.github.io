@@ -17,6 +17,6 @@ newitem=function(){
     }
     
 changefunc = function(){
-      box.classList.add(Done);
+      this.classList.add(Done);
 }
 
